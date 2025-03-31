@@ -22,3 +22,6 @@ Any user can delete a blog post.
 
 All posts are stored in Firebase Firestore in real-time.
 
+![alt text](https://github.com/SnehalSonawane24/Blog-App-In-React/blob/main/Screenshot%202025-03-31%20102900.png)
+
+
